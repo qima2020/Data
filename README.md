@@ -1,3 +1,2 @@
-# Data
-Data File for the Website
-Hello World 
+# Global Science Implementation Lab 
+Welcome to the Global Science Implementation Lab! 
